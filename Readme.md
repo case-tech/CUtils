@@ -8,7 +8,7 @@
 
 ### Overview
 
-**CUtils** is a comprehensive collection of utility functions and tools designed to simplify the development of complex software in C++. Check out the developer’s website for more information: [Developer's Website](https://case-technologies.ru/).
+**CUtils** is a comprehensive collection of utility functions and tools designed to simplify the development of complex software in C++.
 
 ### Documentation
 
@@ -57,7 +57,7 @@ To build the CUtils library using CMake, follow these steps:
 
 ### Описание
 
-**CUtils** — это обширная коллекция утилит и функций, разработанная для упрощения разработки сложного программного обеспечения на C++. Подробную информацию можно найти на сайте разработчика: [Сайт разработчика](https://case-technologies.ru/).
+**CUtils** — это обширная коллекция утилит и функций, разработанная для упрощения разработки сложного программного обеспечения на C++.
 
 ### Документация
 
